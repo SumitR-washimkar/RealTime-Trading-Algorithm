@@ -1,0 +1,10 @@
+kafka:
+  brokers: ["redpanda-1:29092", "redpanda-2:29093"]
+  schemaRegistry:
+    enabled: false
+redpanda:
+  adminApi:
+    enabled: true
+    url: ["http://redpanda-1:33145", "http://redpanda-2:33146"]
+connect:
+  enabled: false
