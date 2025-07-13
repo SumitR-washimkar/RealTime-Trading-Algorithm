@@ -1,4 +1,3 @@
-styled_readme_content = """
 # Real-Time Trading Pipeline: Kafka, Flink, Python, Data Lake
 
 This project demonstrates an end-to-end **Real-Time Trading Algorithm Pipeline**, combining event-driven and stream processing technologies for live financial analytics. It is designed to simulate a production-grade trading environment using:
@@ -62,7 +61,6 @@ real-time-trading-algorithm/
 │   ├── docker-entrypoint.sh
 │   ├── Dockerfile-sql
 │   ├── sql-client.sh
-│   ├── pyvenv.cfg
 │   └── docker-compose.yml                                                 
 ├── flink-model/                    ← Preprocessing model
 ├── flink-python-model/             ← AI/ML logic using Fiink + Python
