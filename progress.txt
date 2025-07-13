@@ -1,0 +1,10 @@
+## Current Status
+
+| Component        | Status          |
+|------------------|-----------------|
+| API Integration  | ✅ Completed   |
+| Kafka Setup      | ✅ Completed   |
+| Flink SQL Logic  | 🔄 Completed   |
+| Model Deployment | 🔲 In Progress |
+| Client UI        | 🔲 Upcoming    |
+| Sink Integration | 🔲 Upcoming    |
